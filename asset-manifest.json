@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/nx-voter-bot/static/css/main.5f361e03.chunk.css",
-    "main.js": "/nx-voter-bot/static/js/main.a59bfb9e.chunk.js",
-    "main.js.map": "/nx-voter-bot/static/js/main.a59bfb9e.chunk.js.map",
+    "main.js": "/nx-voter-bot/static/js/main.a9adcf8e.chunk.js",
+    "main.js.map": "/nx-voter-bot/static/js/main.a9adcf8e.chunk.js.map",
     "runtime-main.js": "/nx-voter-bot/static/js/runtime-main.8e9d35c7.js",
     "runtime-main.js.map": "/nx-voter-bot/static/js/runtime-main.8e9d35c7.js.map",
-    "static/js/2.327d5ab8.chunk.js": "/nx-voter-bot/static/js/2.327d5ab8.chunk.js",
-    "static/js/2.327d5ab8.chunk.js.map": "/nx-voter-bot/static/js/2.327d5ab8.chunk.js.map",
+    "static/js/2.9a8e8fb8.chunk.js": "/nx-voter-bot/static/js/2.9a8e8fb8.chunk.js",
+    "static/js/2.9a8e8fb8.chunk.js.map": "/nx-voter-bot/static/js/2.9a8e8fb8.chunk.js.map",
     "index.html": "/nx-voter-bot/index.html",
-    "precache-manifest.4aa911f08a0b91e288995e664001d9de.js": "/nx-voter-bot/precache-manifest.4aa911f08a0b91e288995e664001d9de.js",
+    "precache-manifest.dc6120a914cee88fcf126a325960cb31.js": "/nx-voter-bot/precache-manifest.dc6120a914cee88fcf126a325960cb31.js",
     "service-worker.js": "/nx-voter-bot/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/nx-voter-bot/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.327d5ab8.chunk.js.LICENSE.txt": "/nx-voter-bot/static/js/2.327d5ab8.chunk.js.LICENSE.txt",
+    "static/js/2.9a8e8fb8.chunk.js.LICENSE.txt": "/nx-voter-bot/static/js/2.9a8e8fb8.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/nx-voter-bot/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8e9d35c7.js",
-    "static/js/2.327d5ab8.chunk.js",
+    "static/js/2.9a8e8fb8.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a59bfb9e.chunk.js"
+    "static/js/main.a9adcf8e.chunk.js"
   ]
 }

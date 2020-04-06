@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4dcb3ce057a1ed52832b36546a2abf2",
+    "revision": "abcf38114abc295f963b94208c488055",
     "url": "/nx-voter-bot/index.html"
   },
   {
-    "revision": "197f7a8c742c7f22715e",
+    "revision": "91d7c7b681c55e19761d",
     "url": "/nx-voter-bot/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "d2035e716d823b2a6282",
-    "url": "/nx-voter-bot/static/js/2.327d5ab8.chunk.js"
+    "revision": "9a7329c7e7a5abae2a7c",
+    "url": "/nx-voter-bot/static/js/2.9a8e8fb8.chunk.js"
   },
   {
     "revision": "bc51ad6b075e5b96cf9ad2ad3d22ac0d",
-    "url": "/nx-voter-bot/static/js/2.327d5ab8.chunk.js.LICENSE.txt"
+    "url": "/nx-voter-bot/static/js/2.9a8e8fb8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "197f7a8c742c7f22715e",
-    "url": "/nx-voter-bot/static/js/main.a59bfb9e.chunk.js"
+    "revision": "91d7c7b681c55e19761d",
+    "url": "/nx-voter-bot/static/js/main.a9adcf8e.chunk.js"
   },
   {
     "revision": "d09208c3f86dd9915131",

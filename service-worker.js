@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nx-voter-bot/precache-manifest.4aa911f08a0b91e288995e664001d9de.js"
+  "/nx-voter-bot/precache-manifest.dc6120a914cee88fcf126a325960cb31.js"
 );
 
 self.addEventListener('message', (event) => {
